@@ -3,9 +3,9 @@
 
 
 .container{
-    background: black;
+    background: gray;
     float: center;
-    text-shadow: 3px 3px yellow;
+    text-shadow: 3px 3px orange;
     text-align: center;
 
 }
@@ -14,7 +14,9 @@
     font-size: 200px;
     line-height: 200px;
     height: 220px;
-    background-color: black;
-    color: orange;
+    background-color: gray;
+    color: yellow;
     margin: auto;
+    font-family: "Lucida Console", "Courier New", monospace;
+
 }

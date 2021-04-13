@@ -20,6 +20,9 @@ function SimpleCounter(props) {
 			<div className="three">{props.digitTree % 10}</div>
 			<div className="two">{props.digitTwo % 10}</div>
 			<div className="one">{props.digitOne % 10}</div>
+			<div className="heart">
+				<i className="fas fa-heart"></i>
+			</div>
 		</div>
 	);
 }
